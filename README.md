@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **node.js**
 
-- 👨‍💻 All of my projects are available at [https://franscoder.com](https://franscoder.com)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://franscoder.com](https://franscoder.com)
 
 - 💬 Pregúntame sobre **react.js**
 
