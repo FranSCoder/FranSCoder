@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre mí:
 🤝 Buscando mi primer empleo<br>🌱 Aprendiendo Node.js<br>💬 Pregúntame lo que quieras sobre React.js<br>⚡ Curiosidades: me gusta el deporte y la tecnología.
 
 
-## 🌐 Socials:
+## 🌐 Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/franscoder) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/franscoder) 
 
 # 💻 Tech Stack:
@@ -12,13 +12,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=franscoder&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=franscoder&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 Mis trofeos
 ![](https://github-profile-trophy.vercel.app/?username=franscoder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
+## 🐦 Mi último tweet
 [![](https://gtce.itsvg.in/api?username=franscoder)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### ✍️ Random Dev Quote
+### ✍️ Cita Developer
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
