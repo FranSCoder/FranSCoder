@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" style="border-radius: 50%;" src="https://user-images.githubusercontent.com/118598218/226196619-470b93f9-24bb-4874-8f66-6f8605274423.jpg" />
+   <img align="center" width="200" style="border-radius: 100px" src="https://user-images.githubusercontent.com/118598218/226196619-470b93f9-24bb-4874-8f66-6f8605274423.jpg" />
 <h3 align="center">¡Hey 👋! Soy franscoder 👨🏻‍💻</h3>
 
 </p>
