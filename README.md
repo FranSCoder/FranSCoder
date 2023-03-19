@@ -26,6 +26,9 @@
 ## 🐦 Mi último tweet
 [![](https://gtce.itsvg.in/api?username=franscoder)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
+![Visitor Count](https://profile-counter.glitch.me/franscoder/count.svg)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
