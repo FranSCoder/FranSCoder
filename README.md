@@ -7,7 +7,7 @@
 </p>
 
 ## 💫 Sobre mí:
-🤝 Buscando mi primer empleo<br>💬 Pregúntame lo que quieras sobre React.js<br>🌱 Aprendiendo Node.js<br>⚡ Curiosidades: me gusta el deporte y la tecnología.
+🤝 Buscando mi primer empleo<br>💬 Pregúntame lo que quieras sobre React.js<br>🌱 Aprendiendo Node.js<br>⚡ Me gusta el deporte y la tecnología.
 
 
 ## 🌐 Redes:
