@@ -26,12 +26,6 @@
 ## 🐦 Mi último tweet
 [![](https://gtce.itsvg.in/api?username=franscoder)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### ✍️ Cita Developer
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=franscoder&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
