@@ -1,10 +1,21 @@
 <p align="center" width="300">
+
    <img align="center" width="200" src="https://user-images.githubusercontent.com/118598218/226197808-4be27790-cd4e-4ab0-ac1d-bd71c0430858.png" />
-
-
-<h3 align="center">¡Hey 👋! Soy franscoder 👨🏻‍💻</h3>
-
+   
+   <h3 align="center">¡Hey 👋! Soy franscoder 👨🏻‍💻</h3>
+   
+   <p align="center">
+      <a href="https://www.linkedin.com/in/franscoder">
+         <img src="https://raw.githubusercontent.com/franscoder/franscoder/main/images/linkedin.png" alt="icon | LinkedIn" width="32px"/>
+      </a>
+      <a href="https://twitter.com/franscoder">
+         <img src="https://raw.githubusercontent.com/franscoder/franscoder/main/images/twitter.png" alt="icon | Twitter" width="32px"/>
+      </a>
+   </p>
+   
 </p>
+
+<br/>
 
 ## 💫 Sobre mí:
 🔍 ¡En busca de empleo!<br>💬 Pregúntame lo que quieras sobre React.js<br>🌱 Aprendiendo Node.js<br>⚡ Me gusta el deporte y la tecnología.
