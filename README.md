@@ -16,7 +16,7 @@
 </p>
 
 ## 💫 Sobre mí:
-🔍 ¡En busca de empleo!<br>💬 Pregúntame lo que quieras sobre React.js<br>🌱 Aprendiendo Node.js<br>⚡ Me gusta el deporte y la tecnología.
+🔍 ¡En busca de nuevos retos!<br>💬 Pregúntame lo que quieras sobre React.js<br>🌱 Aprendiendo Node.js<br>⚡ Me gusta el deporte y la tecnología.
 
 ## 💻 Tecnologías que utilizo:
 <p align="center">
