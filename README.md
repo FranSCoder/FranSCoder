@@ -1,7 +1,7 @@
 <p align="center" width="300">
 
-   <img align="center" width="200" src="https://user-images.githubusercontent.com/118598218/226197808-4be27790-cd4e-4ab0-ac1d-bd71c0430858.png" />
-   
+   <img align="center" width="200" src="https://user-images.githubusercontent.com/118598218/231506941-3a0e1860-821a-49ac-ad2d-b057703037b9.png" />
+
    <h3 align="center">¡Hey 👋! Soy franscoder 👨🏻‍💻</h3>
    
    <p align="center">
