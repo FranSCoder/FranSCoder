@@ -2,7 +2,7 @@
 
    <img align="center" width="200" src="https://user-images.githubusercontent.com/118598218/231506941-3a0e1860-821a-49ac-ad2d-b057703037b9.png" />
 
-   <h3 align="center">¡Hey 👋! Soy Fran 👨🏻‍💻</h3>
+   <h3 align="center">¡Hola 👋! Soy Fran 👨🏻‍💻</h3>
    
    <p align="center">
       <a href="https://www.linkedin.com/in/franscoder">
