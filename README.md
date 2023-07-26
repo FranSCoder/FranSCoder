@@ -27,9 +27,5 @@
 
 ## 📊 Mi actividad en GitHub:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=franscoder&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=franscoder&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🐦 Mi último tweet
-[![](https://gtce.itsvg.in/api?username=franscoder)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 [![](https://visitcount.itsvg.in/api?id=franscoder&icon=0&color=0)](https://visitcount.itsvg.in)
