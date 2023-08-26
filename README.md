@@ -1,7 +1,6 @@
 <p align="center" width="300">
 
-   <img align="center" width="200" src="https://user-images.githubusercontent.com/118598218/263498065-1b969e3b-7409-4b0a-ba00-6851fed240da.png" />
-
+   <img align="center" width="400" src="https://user-images.githubusercontent.com/118598218/263498065-1b969e3b-7409-4b0a-ba00-6851fed240da.png" />
 
    <h3 align="center">¡Hola 👋! Soy Fran 👨🏻‍💻</h3>
    
