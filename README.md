@@ -1,6 +1,7 @@
 <p align="center" width="300">
 
-   <img align="center" width="200" src="https://user-images.githubusercontent.com/118598218/231506941-3a0e1860-821a-49ac-ad2d-b057703037b9.png" />
+   ![1679243333386 1](https://github.com/FranSCoder/FranSCoder/assets/118598218/1b969e3b-7409-4b0a-ba00-6851fed240da)
+
 
    <h3 align="center">¡Hola 👋! Soy Fran 👨🏻‍💻</h3>
    
